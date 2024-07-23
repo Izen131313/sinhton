@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.160.21.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721631951585
+  login: 1721631929229
+money: '0'
+last-account-name: DanhMusic
+logoutlocation:
+  world: 8c70b9f8-6553-4702-be1b-0d910e0a1907
+  world-name: world
+  x: -4.323762
+  y: 68.0
+  z: -10.289002
+  yaw: 15.6829833984375
+  pitch: 0.0

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.160.21.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721753905910
+  login: 1721752354083
+money: '0.0'
+last-account-name: .Yellow2014
+logoutlocation:
+  world: 8c70b9f8-6553-4702-be1b-0d910e0a1907
+  world-name: world
+  x: -986.69999
+  y: 74.0
+  z: -521.69999
+  yaw: 142.61871337890625
+  pitch: 89.89999389648438
